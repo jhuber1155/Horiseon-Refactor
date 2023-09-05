@@ -39,6 +39,9 @@ To deploy the mock-up of this site with the revised code please do the following
 
 ![Screenshot of refactored website](assets/images/Horiseon-1.png)
 
+A link for the deployed website can be found at:
+[Horiseon Refactor](https://jhuber1155.github.io/Horiseon-Refactor/)
+
 ## Credits
 This project was made possible with the help from the Instructors and fellow students of the UCLA Coding Bootcamp. Other helpful sources include references from [W3Schools Online Web Tutorials](https://www.w3schools.com/) and [MDN Web Docs](https://developer.mozilla.org/en-US/).
 
